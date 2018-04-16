@@ -8,6 +8,9 @@
     <AssemblyCopyright>Copyright 2004-2005 University of Wisconsin</AssemblyCopyright>
     <AssemblyVersion>1.0</AssemblyVersion>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Description>Utility Library</Description>
+    <Copyright>Copyright 2004-2005 University of Wisconsin</Copyright>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
