@@ -158,4 +158,4 @@ $RECYCLE.BIN/
 .DS_Store
 
 # .vs folder
-./.vs
+.vs/
