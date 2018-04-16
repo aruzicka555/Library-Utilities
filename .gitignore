@@ -45,6 +45,7 @@ build/
 *.pidb
 *.log
 *.scc
+.vs
 
 # Visual C++ cache files
 ipch/
@@ -58,7 +59,7 @@ ipch/
 *.psess
 *.vsp
 *.vspx
-*.vs
+
 
 # Guidance Automation Toolkit
 *.gpState
