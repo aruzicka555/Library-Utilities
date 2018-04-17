@@ -11,6 +11,13 @@
     <Description>Utility Library</Description>
     <Copyright>Copyright 2004-2005 University of Wisconsin</Copyright>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Company>UW-Madison, Forest Landscape Ecology Lab</Company>
+    <Authors>UW-Madison, Forest Landscape Ecology Lab</Authors>
+    <NeutralLanguage>en</NeutralLanguage>
+    <RepositoryUrl>https://github.com/LANDIS-II-Foundation/Library-Utilities</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>LANDIS-II;Landis;Utilities</PackageTags>
+    <PackageProjectUrl>https://sites.google.com/site/landismodel/home</PackageProjectUrl>
   </PropertyGroup>
 
 </Project>

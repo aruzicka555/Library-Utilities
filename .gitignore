@@ -158,5 +158,5 @@ $RECYCLE.BIN/
 .DS_Store
 
 # .vs folder
-.vs/
-src/.vs/
+\#.vs/
+\#.csproj.user
