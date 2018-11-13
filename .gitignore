@@ -46,6 +46,7 @@ build/
 *.log
 *.scc
 
+
 # Visual C++ cache files
 ipch/
 *.aps
@@ -58,6 +59,7 @@ ipch/
 *.psess
 *.vsp
 *.vspx
+
 
 # Guidance Automation Toolkit
 *.gpState
@@ -154,3 +156,7 @@ $RECYCLE.BIN/
 
 # Mac desktop service store files
 .DS_Store
+
+# .vs folder
+\#.vs/
+\#.csproj.user
