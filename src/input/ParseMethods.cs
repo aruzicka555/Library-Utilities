@@ -1,6 +1,3 @@
-// Copyright 2004 University of Wisconsin 
-// All rights reserved. 
-// 
 // Contributors: 
 //   James Domingo, Forest Landscape Ecology Lab, UW-Madison 
 
